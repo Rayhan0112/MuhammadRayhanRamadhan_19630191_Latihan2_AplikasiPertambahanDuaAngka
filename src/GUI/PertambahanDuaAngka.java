@@ -7,7 +7,7 @@ package GUI;
 
 /**
  *
- * @author Risfianoor
+ * @author Rayhan
  */
 public class PertambahanDuaAngka extends javax.swing.JFrame {
 
